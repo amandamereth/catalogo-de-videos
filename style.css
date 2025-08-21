@@ -2,10 +2,10 @@ body {
 color: white;
 background: black;
 }
-header { border-bottom: solid 2px rgb(42, 122, 228);
+header { border-bottom: solid 2px rgb(233, 192, 242);
      padding: 20px;
       font-size: 32px; 
-      color: rgb(42, 122, 228);
+      color: rgb(219, 175, 235);
      }
 
  .chamada { 
